@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comandă!</string>
+    <string name="chocolate">Ciocolată</string>
+    <string name="enter_your_name">Scrie-ți numele</string>
+    <string name="no">Nu</string>
+    <string name="order">Comandă</string>
+    <string name="order_summary">Sumarul comenzii</string>
+    <string name="quantity">Cantitate</string>
+    <string name="thank_you">Mulțumim!</string>
+    <string name="toppings">Topinguri</string>
+    <string name="yes">Da</string>
+</resources>

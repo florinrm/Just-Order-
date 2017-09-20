@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Just Order!</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream" translatable="false">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order">Order</string>
+    <string name="price" translatable="false">$10</string>
+    <string name = "thank_you">Thank you!</string>
+    <string name = "yes">Yes</string>
+    <string name = "no">No</string>
+</resources>
